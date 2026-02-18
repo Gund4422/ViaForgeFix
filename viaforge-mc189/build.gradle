@@ -3,7 +3,7 @@ plugins {
 }
 
 dependencies {
-    // Adding this so ViaForge stops crying. It won't affect your ASM.
+    // nuuuuu
     compile('org.spongepowered:mixin:0.7.11-SNAPSHOT') {
         exclude module: 'launchwrapper'
         exclude module: 'guava'
